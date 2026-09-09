@@ -3,5 +3,5 @@ import { defineConfig } from "vite";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/Matthias-First-PWA-Project/",
+  base: "/Solomon-PWA-Project/",
 });
