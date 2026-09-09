@@ -97,10 +97,9 @@ export default function Home() {
       <main>
         <p className="eyebrow">FOUNDATION TRACK</p>
         <h1>
-          Keep learning when the network leaves.
-          Uzobuenyi Samuel Onyekachukwu
-          Mechatronics Engineering
-          2024/1/95525ET
+          Keep learning when the network leaves. <br />
+          Ejaka Matthias Kulele <br />
+          Computer Engineering 2024/1/99162CP
         </h1>
         <p className="lede">
           Save a note, refresh the page, then test the same experience with the
