@@ -103,7 +103,7 @@ export default function Home() {
             {" "}
            Kolo Festus Isaac
             <br />
-           Electrical and Electronics Engineering 2023/1/96234EE
+           Electrical and Electronics Engineering 2024/1/96234EE
           </span>
         </h1>
         <p className="lede">
