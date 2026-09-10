@@ -99,8 +99,9 @@ export default function Home() {
         <h1>
           Keep learning when the network leaves. <br />
           <br />
-          Yusuff Sultan Adedamola<br />
-          Mechatronics Engineering 2024/1/94787ET
+          Iheanacho Chiagoziem Martins
+          <br />
+          Computer Engineering 2024/1/98322CP
         </h1>
         <p className="lede">
           Save a note, refresh the page, then test the same experience with the
