@@ -98,8 +98,9 @@ export default function Home() {
         <p className="eyebrow">FOUNDATION TRACK</p>
         <h1>
           Keep learning when the network leaves. <br />
-          Ochimana Solomon Ukpeojo <br />
-          Electrical and Electronics Engineering 2024/1/97717EE
+          <br />
+          Yusuff Sultan Adedamola<br />
+          Mechatronics Engineering 2024/1/94787ET
         </h1>
         <p className="lede">
           Save a note, refresh the page, then test the same experience with the
