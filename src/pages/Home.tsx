@@ -101,9 +101,9 @@ export default function Home() {
           <br />
           <span className="nameSection">
             {" "}
-            Emmanuel Chinwendum Chidozie
+            Adejoh Ojonugwa Victor
             <br />
-            Mechatronics Engineering 2024/1/97268ET
+            Electrical and Electronics Engineering 2024/1/95690EE
           </span>
         </h1>
         <p className="lede">
