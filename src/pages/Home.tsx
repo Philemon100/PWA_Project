@@ -99,9 +99,9 @@ export default function Home() {
         <h1>
           Keep learning when the network leaves. <br />
           <br />
-          Iheanacho Chiagoziem Martins
+          Emmanuel Chinwendum Chidozie
           <br />
-          Computer Engineering 2024/1/98322CP
+          Mechatronics Engineering 2024/1/97268ET
         </h1>
         <p className="lede">
           Save a note, refresh the page, then test the same experience with the
