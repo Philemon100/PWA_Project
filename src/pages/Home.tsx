@@ -99,9 +99,12 @@ export default function Home() {
         <h1>
           Keep learning when the network leaves. <br />
           <br />
-          Emmanuel Chinwendum Chidozie
-          <br />
-          Mechatronics Engineering 2024/1/97268ET
+          <span className="nameSection">
+            {" "}
+            Emmanuel Chinwendum Chidozie
+            <br />
+            Mechatronics Engineering 2024/1/97268ET
+          </span>
         </h1>
         <p className="lede">
           Save a note, refresh the page, then test the same experience with the

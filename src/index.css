@@ -46,7 +46,11 @@ small {
   /* flex-direction: column; */
   /* grid-template-columns:1fr 1fr 1fr; */
 }
-
+.nameSection{
+  font-size: 50px;
+  font-family:'Times New Roman', Times, serif;
+  font-style: italic;
+}
 aside {
   min-height: calc(100vh - 64px);
   border-right: 1px solid #d8d2c8;
