@@ -101,9 +101,9 @@ export default function Home() {
           <br />
           <span className="nameSection">
             {" "}
-           Umar Nana Hauwa
+           Kolo Festus Isaac
             <br />
-            Telecommunication Engineering 2023/1/92400CM
+           Electrical and Electronics Engineering 2023/1/96234EE
           </span>
         </h1>
         <p className="lede">
