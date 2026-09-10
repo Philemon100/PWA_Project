@@ -101,9 +101,9 @@ export default function Home() {
           <br />
           <span className="nameSection">
             {" "}
-            Philemon Tsado
+            Kolo Gideon Nmadu
             <br />
-            Telecommunication Engineering 2024/1/98823CM
+            Mechatronics Engineering 2024/1/96209ET
           </span>
         </h1>
         <p className="lede">
